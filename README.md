@@ -12,7 +12,7 @@ Sentinel is designed around **market observation and situational awareness**: pu
 
 **Astra-Axiom Sentinel is available on Google Play.**
 
-> **Google Play:** *Play Store link to be added*
+> **Google Play:** *[Play Store link to be added](https://play.google.com/store/apps/details?id=com.aais.tokenscanner)*
 
 The application is distributed as an Android application through Google Play. This repository is the public information and documentation hub for the released application.
 
