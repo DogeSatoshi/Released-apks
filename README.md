@@ -2,6 +2,8 @@
 
 ### Real-Time Crypto Market Intelligence for Android
 
+> ⚠️ **Data & Privacy Disclaimer:** Sentinel is a standalone application. **No registration, user account, login, or personal profile is required. Sentinel does not track users or collect user data.** The application operates independently on each user's Android device and retrieves market information directly from publicly available exchange data. No user account or Sentinel cloud service is required for normal operation.
+
 Astra-Axiom Sentinel is a lightweight Android market-intelligence application built to provide a clear, fast view of live cryptocurrency market conditions without turning the screen into an overloaded trading terminal.
 
 Sentinel is designed around **market observation and situational awareness**: pull current market data, present it in a compact interface, and give the user the information needed to understand what is happening in the market at a glance.
@@ -88,7 +90,17 @@ Sentinel does not control Binance's infrastructure or guarantee the availability
 
 ## Privacy & Security
 
-Sentinel's market-data functionality is designed around publicly available exchange information and does not require access to a user's Binance trading account for normal market observation.
+Sentinel is designed to operate independently on the user's device.
+
+- **No registration required**
+- **No user account required**
+- **No login required**
+- **No user tracking**
+- **No personal user-data collection**
+- **No Sentinel cloud account or user profile**
+- **No Binance trading credentials required**
+
+The application's market-data functionality relies on publicly available exchange information. Sentinel does not require access to a user's Binance trading account for normal market observation.
 
 **Never provide private API keys, passwords, seed phrases, or wallet recovery information to Sentinel or to any third party claiming to represent the application.**
 
